@@ -39,7 +39,7 @@ window.OC_DATA = {
     },
     {
       "id": "b",
-      "codename": "Besprebel",
+      "codename": "Bespredel",
       "realName": "라브렌티 자하로프",
       "position": "의무실 의사 (무면허)",
       "gender": "남",
